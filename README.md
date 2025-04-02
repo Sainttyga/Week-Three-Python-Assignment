@@ -16,7 +16,7 @@ This Python program calculates the final price of an item after applying a disco
 
 ---
 
-## 🛠 Usage  
+## Usage  
 
 1. Run the Python script:  
 
@@ -54,7 +54,7 @@ Discount Calculator
 
 ---
 
-## 📝 Notes  
+## Notes  
 
 - The script ensures the discount is applied **only if it is 20% or higher**.  
 - Handles user input and ensures proper calculations.  
